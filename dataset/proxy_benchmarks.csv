@@ -1,0 +1,21 @@
+id,proxy_address,availability_score,latency_score,anonymity_score,protocol_support_score,reputation_score,duplicate_risk_score,overall_proxy_health,priority_signal,anonymity_level,protocol,country,notes
+1,192.0.2.10:8080,85,70,90,80,75,65,77,Duplicate Risk,Elite,HTTP/HTTPS/SOCKS5,United States,Healthy premium proxy
+2,198.51.100.5:3128,60,55,40,65,50,45,53,Anonymity,Anonymous,HTTP/HTTPS,Germany,At risk transparent leakage
+3,203.0.113.10:1080,92,88,95,90,88,85,90,Duplicate Risk,Elite,SOCKS5,Japan,Excellent across the board
+4,10.0.0.50:8888,30,25,20,35,28,22,27,Anonymity,Transparent,HTTP,India,Critical low quality proxy
+5,172.16.5.20:443,78,72,82,75,70,68,74,Duplicate Risk,Elite,HTTPS/SOCKS5,United Kingdom,Healthy steady proxy
+6,192.168.10.30:8080,15,18,10,20,12,15,15,Anonymity,Transparent,HTTP,Brazil,Critical abusive endpoint
+7,8.8.4.4:1080,95,92,96,93,94,90,93,Duplicate Risk,Elite,SOCKS5,United States,Reference excellent proxy
+8,1.0.0.1:443,90,85,93,88,91,86,89,Duplicate Risk,Elite,HTTPS,United States,Premium DNS-linked proxy
+9,203.0.113.45:3128,50,48,42,55,45,40,47,Anonymity,Anonymous,HTTP/HTTPS,South Africa,At risk routing endpoint
+10,198.51.100.88:8080,75,70,78,72,68,65,71,Duplicate Risk,Anonymous,HTTP/HTTPS,Canada,Healthy connection
+11,172.20.30.40:1080,62,58,65,60,55,50,58,Duplicate Risk,Anonymous,SOCKS5,Australia,At risk moderate latency
+12,10.10.10.10:8080,82,78,85,80,79,75,80,Duplicate Risk,Elite,HTTP/HTTPS/SOCKS5,Singapore,Strong enterprise proxy
+13,192.0.2.99:3128,25,22,18,28,20,18,22,Anonymity,Transparent,HTTP,Mexico,Critical legacy proxy
+14,203.0.113.200:443,68,64,70,66,62,58,65,Duplicate Risk,Anonymous,HTTPS,France,Healthy urban proxy
+15,198.51.100.150:8888,42,38,35,45,40,32,39,Anonymity,Anonymous,HTTP,Kenya,At risk rural network
+16,172.16.100.5:1080,80,76,82,78,77,73,78,Duplicate Risk,Elite,SOCKS5,South Korea,Excellent business proxy
+17,10.20.30.40:8080,35,30,28,38,32,25,31,Anonymity,Transparent,HTTP,Philippines,At risk discount tier
+18,192.168.50.60:443,70,66,72,68,65,60,67,Duplicate Risk,Anonymous,HTTPS,Italy,Healthy suburban proxy
+19,203.0.113.77:1080,88,84,90,86,85,80,86,Duplicate Risk,Elite,SOCKS5,Netherlands,Near excellent premium proxy
+20,198.51.100.220:8080,20,15,12,22,15,10,16,Anonymity,Transparent,HTTP,Nigeria,Critical edge abusive proxy
