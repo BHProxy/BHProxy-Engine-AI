@@ -1,7 +1,7 @@
 # BHProxy Engine AI 🔌🤖
 
 [![npm](https://img.shields.io/npm/v/@bhproxy/engine-ai)](https://npmjs.com/package/@bhproxy/engine-ai)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20922133.svg)](https://doi.org/10.5281/zenodo.20922133)
 
 An intelligent proxy analysis system that combines automated network validation with AI-assisted detection to identify unhealthy, duplicate, low-quality, and potentially abusive proxy endpoints. Built by [BHProxy.com](https://bhproxy.com).
 
@@ -117,7 +117,7 @@ Proxy Analysis · Proxy Validation · AI Proxy Detection · Anonymity Classifica
 | NPM | https://npmjs.com/package/@bhproxy/engine-ai |
 | Hugging Face | https://huggingface.co/datasets/BHProxy/engine-ai-benchmarks |
 | Kaggle | https://kaggle.com/datasets/bhproxy/engine-ai-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20922133 |
 | Docs | https://bhproxy-engine-ai.readthedocs.io |
 
 ## About BHProxy.com
