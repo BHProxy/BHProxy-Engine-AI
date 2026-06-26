@@ -20,6 +20,7 @@
       "https://npmjs.com/package/@bhproxy/engine-ai",
       "https://huggingface.co/datasets/BHProxy/engine-ai-benchmarks",
       "https://kaggle.com/datasets/bhproxy/engine-ai-benchmarks",
+      "https://zenodo.org/records/20922133",      
       "https://bhproxy.github.io/BHProxy-Engine-AI/"
     ]
   },
