@@ -1,0 +1,21 @@
+site_name: BHProxy Engine AI
+site_url: https://bhproxy-engine-ai.readthedocs.io
+site_description: Intelligent proxy analysis system combining automated network validation with AI-assisted detection of unhealthy, duplicate, low-quality, and abusive proxy endpoints.
+site_author: BHProxy.com
+
+repo_name: BHProxy/BHProxy-Engine-AI
+repo_url: https://github.com/BHProxy/BHProxy-Engine-AI
+
+theme:
+  name: material
+  palette:
+    primary: teal
+    accent: deep-orange
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

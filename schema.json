@@ -1,0 +1,40 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "BHProxy Engine AI",
+  "description": "An intelligent proxy analysis system that combines automated network validation with AI-assisted detection to identify unhealthy, duplicate, low-quality, and potentially abusive proxy endpoints.",
+  "url": "https://bhproxy.com",
+  "applicationCategory": "DeveloperApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "BHProxy.com",
+    "url": "https://bhproxy.com",
+    "sameAs": [
+      "https://github.com/BHProxy",
+      "https://npmjs.com/package/@bhproxy/engine-ai",
+      "https://huggingface.co/datasets/BHProxy/engine-ai-benchmarks",
+      "https://kaggle.com/datasets/bhproxy/engine-ai-benchmarks",
+      "https://bhproxy.github.io/BHProxy-Engine-AI/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/BHProxy/BHProxy-Engine-AI",
+  "keywords": [
+    "proxy analysis",
+    "proxy validation",
+    "AI proxy detection",
+    "anonymity classification",
+    "latency monitoring",
+    "reputation scoring",
+    "duplicate proxy detection",
+    "BHProxy",
+    "proxy checker",
+    "proxy quality"
+  ]
+}

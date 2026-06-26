@@ -1,0 +1,52 @@
+{
+  "title": "BHProxy Engine AI",
+  "description": "An intelligent proxy analysis system that combines automated network validation with AI-assisted detection to identify unhealthy, duplicate, low-quality, and potentially abusive proxy endpoints. It continuously evaluates availability, latency, anonymity, protocol support, and reputation to improve proxy quality. Built by BHProxy.com.",
+  "creators": [
+    {
+      "name": "BHProxy.com"
+    }
+  ],
+  "keywords": [
+    "proxy analysis",
+    "proxy validation",
+    "AI proxy detection",
+    "anonymity classification",
+    "latency monitoring",
+    "reputation scoring",
+    "duplicate proxy detection",
+    "BHProxy",
+    "proxy checker",
+    "proxy quality"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BHProxy/BHProxy-Engine-AI",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://bhproxy.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@bhproxy/engine-ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/BHProxy/engine-ai-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/bhproxy/engine-ai-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

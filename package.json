@@ -1,0 +1,37 @@
+{
+  "name": "@bhproxy/engine-ai",
+  "version": "1.0.0",
+  "description": "Intelligent proxy analysis system combining automated network validation with AI-assisted detection of unhealthy, duplicate, low-quality, and abusive proxy endpoints. Powered by BHProxy.com",
+  "main": "index.js",
+  "bin": {
+    "bhproxy-engine-ai": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "proxy-analysis",
+    "proxy-validation",
+    "ai-proxy-detection",
+    "anonymity-classification",
+    "latency-monitoring",
+    "reputation-scoring",
+    "duplicate-proxy-detection",
+    "bhproxy",
+    "proxy-checker",
+    "proxy-quality",
+    "socks5",
+    "proxy-engine"
+  ],
+  "author": "BHProxy.com",
+  "license": "MIT",
+  "homepage": "https://bhproxy.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BHProxy/BHProxy-Engine-AI"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
